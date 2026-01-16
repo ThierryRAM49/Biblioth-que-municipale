@@ -1,1 +1,1 @@
-Gestion d'une base de données crée avec JMerise ei importé vers une base de donée locale et gestion du back end
+Gestion d'une base de données crée avec JMerise et importé vers une base de donée locale avec gestion du back end
